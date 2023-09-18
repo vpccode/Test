@@ -1,0 +1,10 @@
+Concatination Defination -
+String concatenation is the process of combining multiple strings by 
+joining them end-to-end. This is often done using string operators
+ like + in many programming languages.
+ ...............................................................................................
+
+ String Interpolation:-
+String interpolation is a method of inserting values or variables into a string template or literal.
+ The values are inserted directly into the string without the need for explicit. 
+ .......................................................................................................
